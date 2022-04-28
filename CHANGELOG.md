@@ -4,7 +4,7 @@
 ### Changed
 - ADD CHANGES HERE
 ### Added
-- ADD CHANGES HERE
+- Added javadoc for DummyService
 
 ## [0.1.1]
 ### Changed
